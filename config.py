@@ -39,7 +39,7 @@ UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/HELL-BOY-OP/HarleyXhell",
 )
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "HELL-BOY-OP")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
