@@ -73,16 +73,14 @@
 - Get your [Necessary Variables](https://github.com/Lippsxd/LippsMusicbot/blob/master/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
-- Install Ffmpeg by :
+- Install Ffmpeg & Python by :
 `sudo apt-get install python3-pip ffmpeg -y`
-- Install required packages by :
-`sudo apt-get install python3-pip -y`
 - Install pip by :
 `sudo pip3 install -U pip`
 - Install Node js by :
 `curl -fssL https://deb.nodesource.com/setup_19.x | sudo -E bash - && sudo apt-get install nodejs -y && npm i -g npm`
 - Clone the repository by :
-`git clone https://github.com/Lippsxd/lippsmusicbot && cd LippsMusic`
+`git clone https://github.com/Lippsxd/lippsmusicbot && cd lippsmusic`
 - Install requirements by :
 `pip3 install -U -r requirements.txt`
 - Fill your variables in the env by :
@@ -122,3 +120,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴀɴᴏɴʏᴍᴏᴜꜱ](https://github.com/AnonymousX1025) ғᴏʀ [ᴀɴᴏɴxᴍᴜꜱɪᴄ](https://github.com/AnonymousX1025/AnonXMusic)_ </b>
 
 ━━━━━━━━━━━━━━━━━━━━
+
